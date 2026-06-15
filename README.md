@@ -29,7 +29,7 @@ A Streamlit-based PDF Question Answering application that allows users to upload
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PDF_Chatbot.git
+git clone https://github.com/Tanmay4440/PDF_Chatbot.git
 cd PDF_Chatbot
 ```
 
